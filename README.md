@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kahawatta</h1>
+<h1 align="center">Hi 👋, I'm Kasun Kalhana</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanaka</h3>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **OOP, Web development**
 
-- 📫 How to reach me **sandeepkahawatta6@gmail.com**
+- 📫 How to reach me **kasunkalhana@gmail.com**
 
 - 📄 Know about my experiences [@kkkk](@kkkk)
 
